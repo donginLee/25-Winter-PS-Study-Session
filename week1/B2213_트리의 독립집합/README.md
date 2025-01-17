@@ -1,7 +1,7 @@
 # 문제: [문제 제목]
 
 ## 문제 링크
-- [문제 링크](#https://www.acmicpc.net/problem/9652)
+- [문제 링크](#https://www.acmicpc.net/problem/2213)
 
 ---
 
